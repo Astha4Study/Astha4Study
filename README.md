@@ -1,16 +1,29 @@
-## Hi there 👋
+# <summary><strong>Hi there :wave: , I'm Asthaa!</strong></summary>
+Lets study together! | Student at Amikom Purwokerto
 
-<!--
-**Astha4Study/Astha4Study** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <summary><strong>Tools i use:</strong></summary>
+<p>
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+</p>
 
-Here are some ideas to get you started:
+### <summary><strong>Kono dio daa!!</strong></summary>
+<p>
+    - :keyboard: I’m currently learning: HTML, CSS, JavaScript. </br>
+    - :speech_balloon: Fell free to ask me anything.</br>
+    - :mailbox: How to reach me: <a href="mailto:iyandabes1@gmail.com">Email me!</a>  </br>
+    - :cloud: Pronouns: He/Him. </br>
+    - :game_die: Playing games also part of me. </br>
+<p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <summary><strong>Let's know each other!</strong></summary>
+<p>
+        I am a student who is very interested in the world of web development. I am currently building both my soft skills and hard skills by working on projects ranging from simple to complex. I am a person who wants to keep learning and is always excited to explore new technologies. Let's share knowledge and experiences to grow together!
+</p>
+
+### <summary><strong>Let's connect!</strong></summary>
+<a href="https://twitter.com/EveeLyn20711041">
+  <img align="left" alt="Astha Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+</a>
+<a href="https://www.instagram.com/sitajametbanget/">
+  <img align="left" alt="Astha Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+</a>
