@@ -1,7 +1,7 @@
 # <summary><strong>Hi there :wave: , I'm Asthaa!</strong></summary>
 Lets study together! | Student at Amikom Purwokerto
 
-### <summary><strong>Tool i use:</strong></summary>
+### <summary><strong>My Developers Toolbox:</strong></summary>
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
