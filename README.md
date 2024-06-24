@@ -1,4 +1,4 @@
-# <summary><strong>Hi there :wave: , I'm Asthaa!</strong></summary>
+<center><h2><summary><strong>Hi there :wave: , I'm Asthaa!</strong></summary></h2?</center>
 Lets study together! | Student at Amikom Purwokerto
 
 ### <summary><strong>My Developers Toolbox:</strong></summary>
@@ -19,6 +19,10 @@ Lets study together! | Student at Amikom Purwokerto
 <p>
         I am a student who is very interested in the world of web development. I am currently building both my soft skills and hard skills by working on projects ranging from simple to complex. I am a person who wants to keep learning and is always excited to explore new technologies. Let's share knowledge and experiences to grow together!
 </p>
+
+### <summary><strong>Portfolio</strong></summary>
+
+![Astha's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
 
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://twitter.com/EveeLyn20711041">
