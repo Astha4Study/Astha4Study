@@ -22,7 +22,7 @@ Lets study together! | Student at Amikom Purwokerto
 
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://twitter.com/EveeLyn20711041">
-  <img align="left" alt="Astha Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+  <img align="left" alt="Astha Twitter" width="20px" src="https://simpleicons.now.sh/x/495f7e" />
 </a>
 <a href="https://www.instagram.com/sitajametbanget/">
   <img align="left" alt="Astha Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
