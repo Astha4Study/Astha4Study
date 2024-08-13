@@ -28,8 +28,8 @@ Lets study together! | Student at Amikom Purwokerto
   <img align="left" alt="Astha Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 
-<summary>
+<div>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Astha&label=Profile%20Views&color=6&icon=5&pretty=true" />
 </a>
-</summary>
+</div>
