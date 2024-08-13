@@ -30,7 +30,6 @@ Lets study together! | Student at Amikom Purwokerto
 
 <br>
 <br>
-<br>
 
 [![](https://visitcount.itsvg.in/api?id=Astha&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
