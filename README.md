@@ -24,8 +24,11 @@ Lets study together! | Student at Amikom Purwokerto
 <a href="https://twitter.com/EveeLyn20711041">
   <img align="left" alt="Astha Twitter" width="20px" src="https://simpleicons.now.sh/x/495f7e" />
 </a>
-<a href="https://www.instagram.com/sitajametbanget/">
+<a href="https://www.instagram.com/rheiyn._/">
   <img align="left" alt="Astha Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+</a>
+<a href="www.linkedin.com/in/muh-agus-priyanto">
+  <img align="left" alt="Astha Linkedin" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 
 <br>
