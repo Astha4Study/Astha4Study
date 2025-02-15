@@ -28,7 +28,7 @@ Lets study together! | Student at Amikom Purwokerto
   <img align="left" alt="Astha Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 <a href="https://www.linkedin.com/in/muh-agus-priyanto/">
-  <img align="left" alt="Astha Linkedin" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+  <img align="left" alt="Astha Linkedin" width="20px" src="https://simpleicons.now.sh/logmein/495f7e" />
 </a>
 
 <br>
