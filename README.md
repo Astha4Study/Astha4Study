@@ -8,11 +8,11 @@ Lets study together! | Student at Amikom Purwokerto
 
 ### <summary><strong>Kono dio daa!!</strong></summary>
 <p>
-    - :keyboard: I’m currently learning: HTML, CSS, JavaScript. </br>
+    - :keyboard: I’m currently learning: React, and Laravel FrameWork. </br>
     - :speech_balloon: Fell free to ask me anything.</br>
     - :mailbox: How to reach me: <a href="mailto:iyandabes1@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: He/Him. </br>
-    - :game_die: Playing games also part of me. </br>
+    - :game_die: Ngoding 8 jam per hari adalah goals </br>
 <p>
 
 ### <summary><strong>Let's know each other!</strong></summary>
