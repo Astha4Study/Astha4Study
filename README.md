@@ -12,7 +12,7 @@ I am a student who is very interested in the world of web development. I am curr
 
 # 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=Astha4Study&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Astha4Study&theme=dark&hide_border=false)<br/> <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Astha4Study&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
