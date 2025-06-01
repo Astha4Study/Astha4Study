@@ -1,13 +1,13 @@
 # ⭐ About Me:
 
-Frontend Developer & UI/UX Design Enthusiast 👨‍💻 learning by building 🛠️, crafting intuitive digital experiences with clean code 💡 and thoughtful design 🎨..
+Frontend Developer & UI/UX Design Enthusiast 👨‍💻 learning by building 🛠️, crafting intuitive digital experiences with clean code 💡 and thoughtful design 🎨
 
 ## 🤝 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rheiyn._) 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iyandabes1@gmail.com)
 
-## 🚀 Featured Project
+## 🚀 My Portfolio
 
 [![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-4stha.my.id-9cf?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.4stha.my.id/)
 
