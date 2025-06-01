@@ -1,11 +1,15 @@
 # ⭐ About Me:
 
-I am a student who is very interested in the world of web development. I am currently building both my soft skills and hard skills by working on projects ranging from simple to complex. I am a person who wants to keep learning and is always excited to explore new technologies. Let's share knowledge and experiences to grow together! 🚀
+Frontend Developer & UI/UX Design Enthusiast 👨‍💻 learning by building 🛠️, crafting intuitive digital experiences with clean code 💡 and thoughtful design 🎨..
 
 ## 🤝 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rheiyn._) 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iyandabes1@gmail.com)
+
+## 🚀 Featured Project
+
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-4stha.my.id-9cf?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.4stha.my.id/)
 
 # 🛠️ Tech Stack:
 
@@ -37,3 +41,4 @@ I am a student who is very interested in the world of web development. I am curr
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Astha4Study&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
