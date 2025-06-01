@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-        I am a student who is very interested in the world of web development. I am currently building both my soft skills and hard skills by working on projects ranging from simple to complex. I am a person who wants to keep learning and is always excited to explore new technologies. Let's share knowledge and experiences to grow together!
+I am a student who is very interested in the world of web development. I am currently building both my soft skills and hard skills by working on projects ranging from simple to complex. I am a person who wants to keep learning and is always excited to explore new technologies. Let's share knowledge and experiences to grow together!
 
 ## 🌐 Socials:
 
