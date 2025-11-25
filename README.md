@@ -41,4 +41,5 @@ Frontend Developer & UI/UX Design Enthusiast 👨‍💻 learning by building �
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Astha4Study&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![wakatime](https://wakatime.com/badge/user/018eff37-c6ba-40de-8c7a-628eccd35823.svg)](https://wakatime.com/@018eff37-c6ba-40de-8c7a-628eccd35823)
 
