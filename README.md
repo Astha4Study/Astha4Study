@@ -5,7 +5,7 @@ Frontend Developer & UI/UX Design Enthusiast 👨‍💻 learning by building �
 ## 🤝 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rheiyn._) 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iyandabes1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aguspriyanto.dev@gmail.com)
 <br />
 [![wakatime](https://wakatime.com/badge/user/018eff37-c6ba-40de-8c7a-628eccd35823.svg)](https://wakatime.com/@018eff37-c6ba-40de-8c7a-628eccd35823)
 
